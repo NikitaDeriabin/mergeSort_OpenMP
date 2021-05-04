@@ -1,0 +1,5 @@
+﻿  MergeSortOpenMP.cpp
+C:\Users\Nikita\source\repos\MergeSortOpenMP\MergeSortOpenMP.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nikita\source\repos\MergeSortOpenMP\MergeSortOpenMP.cpp(88,26): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+C:\Users\Nikita\source\repos\MergeSortOpenMP\MergeSortOpenMP.cpp(94,27): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+  MergeSortOpenMP.vcxproj -> C:\Users\Nikita\source\repos\MergeSortOpenMP\x64\Debug\MergeSortOpenMP.exe
